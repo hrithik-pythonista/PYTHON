@@ -1,7 +1,7 @@
 # args in the form of tuples
 #kwargs keyword arguments
 def  args_function(*args):
-    print(*args)
+    print(args)
 args_function(1,2,3,4,5,6,7,8,90)
 
 #####################################
