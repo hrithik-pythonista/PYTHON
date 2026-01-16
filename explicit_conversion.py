@@ -1,0 +1,6 @@
+a=int(True)
+print(a,type(a))
+b=float(100)
+print(b,type(b))
+c=bool(0)
+print(c,type(c))
