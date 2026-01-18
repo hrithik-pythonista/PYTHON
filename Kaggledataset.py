@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_csv(r"C:\Users\lenovo\OneDrive\Desktop\COURSE\titanic.csv")
+df=pd.read_csv("titanic.csv")
 print(df.head())
 pd.set_option('display.max_rows', None)
 pd.set_option('display.width', 200)
